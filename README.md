@@ -1,1 +1,3 @@
 # Prime-Number-Using-C-Programming
+Author:Rup Dey <br>
+Easy Code To Understand Everyone for Beginner...
